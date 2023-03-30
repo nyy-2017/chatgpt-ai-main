@@ -1,0 +1,23 @@
+{
+  "id": "3984458",
+  "name": "chatgatAi",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13646192",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "33991824",
+      "name": "openai",
+      "font_class": "openai",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
